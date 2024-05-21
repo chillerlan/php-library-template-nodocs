@@ -1,5 +1,5 @@
 {
-	"name": "chillerlan/php-library-template",
+	"name": "chillerlan/php-library-template-nodocs",
 	"description": "A PHP Library template/boilerplate.",
 	"license": "MIT",
 	"type": "library",
@@ -12,7 +12,7 @@
 		},
 		{
 			"name": "Contributors",
-			"homepage":"https://github.com/chillerlan/php-library-template/graphs/contributors"
+			"homepage":"https://github.com/chillerlan/php-library-template-nodocs/graphs/contributors"
 		}
 	],
 	"funding": [
@@ -21,11 +21,10 @@
 			"url": "https://ko-fi.com/codemasher"
 		}
 	],
-	"homepage": "https://github.com/chillerlan/php-library-template",
+	"homepage": "https://github.com/chillerlan/php-library-template-nodocs",
 	"support": {
-		"docs": "https://php-library-template.readthedocs.io",
-		"issues": "https://github.com/chillerlan/php-library-template/issues",
-		"source": "https://github.com/chillerlan/php-library-template"
+		"issues": "https://github.com/chillerlan/php-library-template-nodocs/issues",
+		"source": "https://github.com/chillerlan/php-library-template-nodocs"
 	},
 	"minimum-stability": "stable",
 	"prefer-stable": true,
