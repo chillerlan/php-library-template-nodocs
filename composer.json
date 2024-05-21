@@ -41,12 +41,12 @@
 	},
 	"autoload": {
 		"psr-4": {
-			"chillerlan\\LibraryTemplate\\": "src/"
+			"chillerlan\\LibraryTemplate\\": "src"
 		}
 	},
 	"autoload-dev": {
 		"psr-4": {
-			"chillerlan\\LibraryTemplateTest\\": "tests/"
+			"chillerlan\\LibraryTemplateTest\\": "tests"
 		}
 	},
 	"scripts": {
