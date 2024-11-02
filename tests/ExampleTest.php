@@ -15,7 +15,7 @@ use chillerlan\LibraryTemplate\Example;
 use PHPUnit\Framework\TestCase;
 
 /**
- *
+ * An example unit test
  */
 class ExampleTest extends TestCase{
 
