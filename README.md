@@ -17,8 +17,8 @@ A template/boilerplate for PHP libraries (similar to [chillerlan/php-library-tem
 [license]: https://github.com/chillerlan/php-library-template-nodocs/blob/main/LICENSE
 [gh-action-badge]: https://img.shields.io/github/actions/workflow/status/chillerlan/php-library-template-nodocs/ci.yml?branch=main&logo=github&logoColor=fff
 [gh-action]: https://github.com/chillerlan/php-library-template-nodocs/actions/workflows/ci.yml?query=branch%3Amain
-[coverage-badge]: https://img.shields.io/codecov/c/github/chillerlan/php-library-template-nodocs.svg?logo=codecov&logoColor=fff
-[coverage]: https://codecov.io/github/chillerlan/php-library-template-nodocs
+[coverage-badge]: https://img.shields.io/codecov/c/github/chillerlan/php-library-template/main?logo=codecov&logoColor=fff
+[coverage]: https://codecov.io/github/chillerlan/php-library-template/tree/main
 [downloads-badge]: https://img.shields.io/packagist/dt/chillerlan/php-library-template-nodocs.svg?logo=packagist&logoColor=fff
 [downloads]: https://packagist.org/packages/chillerlan/php-library-template-nodocs/stats
 
